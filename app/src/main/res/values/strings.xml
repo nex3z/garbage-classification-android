@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">垃圾分类</string>
+
+    <string name="m_camera_permission_denied">未开启相机权限</string>
+    <string name="c_result">%1$.4f %2$s</string>
+    <string name="c_unknown">未知</string>
+    <string name="cd_iv_category">分类图标</string>
+    <string name="m_req_recyclable">•轻投轻放，清洁干燥，避免污染\n•废纸尽量平整\n•立体包装物请清空内容物，清洁后压扁投放\n•有尖锐边角的，应包裹后投放</string>
+    <string name="m_req_hazardous">•投放时请注意轻放\n•易破损的请连带包装或包裹后轻放\n•如易挥发，请密封后投放</string>
+    <string name="m_req_household_food">•纯流质的食物垃圾，如牛奶等，应直接倒进下水口\n•有包装物的湿垃圾应将包装物去除后分类投放，包装物请投放到对应的可回收物或干垃圾容器</string>
+    <string name="m_req_residual">•尽量沥干水分\n•难以辨识类别的生活垃圾投入干垃圾容器内</string>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="labels">
+        <item>一次性快餐盒</item>
+        <item>污损塑料</item>
+        <item>烟蒂</item>
+        <item>牙签</item>
+        <item>破碎花盆及碟碗</item>
+        <item>竹筷</item>
+
+        <item>剩饭剩菜</item>
+        <item>大骨头</item>
+        <item>水果果皮</item>
+        <item>水果果肉</item>
+        <item>茶叶渣</item>
+        <item>菜叶菜根</item>
+        <item>蛋壳</item>
+        <item>鱼骨</item>
+
+        <item>充电宝</item>
+        <item>包</item>
+        <item>化妆品瓶</item>
+        <item>塑料玩具</item>
+        <item>塑料碗盆</item>
+        <item>塑料衣架</item>
+        <item>快递纸袋</item>
+        <item>插头电线</item>
+        <item>旧衣服</item>
+        <item>易拉罐</item>
+        <item>枕头</item>
+        <item>毛绒玩具</item>
+        <item>洗发水瓶</item>
+        <item>玻璃杯</item>
+        <item>皮鞋</item>
+        <item>砧板</item>
+        <item>纸板箱</item>
+        <item>调料瓶</item>
+        <item>酒瓶</item>
+        <item>金属食品罐</item>
+        <item>锅</item>
+        <item>食用油桶</item>
+        <item>饮料瓶</item>
+
+        <item>干电池</item>
+        <item>软膏</item>
+        <item>过期药物</item>
+    </string-array>
+
+</resources>
