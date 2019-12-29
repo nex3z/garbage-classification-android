@@ -13,7 +13,12 @@ import java.nio.channels.FileChannel
 
 class Classifier(context: Context) {
 
-    private val options = Interpreter.Options()
+    private val options = with(Interpreter.Options()) {
+        // setUseNNAPI(true)
+        // setAllowFp16PrecisionForFp32(true)
+        setNumThreads(5)
+    }
+
     private val interpreter: Interpreter = Interpreter(loadModelFile(context), options)
 
     private val imageData: ByteBuffer = ByteBuffer.allocateDirect(
